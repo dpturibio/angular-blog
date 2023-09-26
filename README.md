@@ -26,9 +26,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+# Creating github repository and first commit
 git init
+
 git add .
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin git@github.com:dpturibio/angular-blog.git
+
 git push -u origin main

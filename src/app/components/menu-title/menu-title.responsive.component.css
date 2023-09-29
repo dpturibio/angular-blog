@@ -1,0 +1,7 @@
+ /* media query content */
+ /* simular celular no navegador para testar responsividade */
+@media screen and (max-width:600px){
+    .container__menu-title > h1{
+        font-size: 30px;
+    }
+}

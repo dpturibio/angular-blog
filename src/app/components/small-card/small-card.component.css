@@ -1,5 +1,5 @@
 .container__small-card{
-    border: 1px solid white;
+    /*border: 1px solid white;*/
     width: 500px;
     display: flex;
     flex-direction: row;
@@ -8,7 +8,7 @@
 }
 .small-card__photo > img{
     width: 100px;
-    border: 1px solid white;
+    /*border: 1px solid white;*/
     margin-right: 20px;
 }
 
